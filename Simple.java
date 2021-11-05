@@ -1,4 +1,4 @@
 public class Simple{
 public static void main(String args[]){
-System.out.println("Build Finished1");
+System.out.println("Build Finished");
 }}
