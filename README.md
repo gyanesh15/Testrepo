@@ -1,2 +1,2 @@
 # Testrepo
-Build trigger for every commit
+Build trigger for every commits
